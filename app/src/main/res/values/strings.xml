@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GoogleBooksApi</string>
+    <string-array name="book_print_type">
+        <item>
+            ALL
+        </item>
+        <item>
+            BOOKS
+        </item>
+        <item>
+            MAGAZINE
+        </item>
+    </string-array>
+    <string name="book_cover_content_description"> This is a book cover image. </string>
+    <string name="Menu">Menu</string>
+    <string name="log_out">logout</string>
+
+</resources>
